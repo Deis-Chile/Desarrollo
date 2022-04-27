@@ -1,5 +1,5 @@
 # Ambiente para Desarrollo del DEIS
-El objetivo de este espacio es desarrollar productos de data sobre información y estadísticas sanitarias que eventualmente se convertirán en productos oficiales periodicamente publicados por el DEIS.
+El objetivo de este espacio es desarrollar productos que reunan información y estadísticas sanitarias que eventualmente se convertirán en productos oficiales periodicamente publicados por el DEIS.
 
 # Proyectos en curso
 1. [Análisis de exceso de mortalidad](output/producto1) con base de datos abierta del DEIS
