@@ -2,7 +2,7 @@
 El objetivo de este espacio es desarrollar productos de data sobre información y estadísticas sanitarias que eventualmente se convertirán en productos oficiales periodicamente publicados por el DEIS.
 
 # Proyectos en curso
-1. Análisis de exceso de mortalidad con base de datos abierta del DEIS
+1. [Análisis de exceso de mortalidad](output/producto1) con base de datos abierta del DEIS
 
 # Instrucciones
 Para crear nuevos productos debe generar las siguientes tareas:
